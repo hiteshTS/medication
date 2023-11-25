@@ -1,12 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-
+https://hiteshts.github.io/medication/
 ## Personalized Medication Reminder System
 #website image
 ![Screenshot (658)](https://github.com/hiteshTS/medication/assets/137639073/ea11db34-b8c6-4193-8da1-f189682992ba)
 
 #website vedio
- [![Personalized Medication Reminder System Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=OlC-1-Wq6VI))
+ [![Personalized Medication Reminder System Video](https://www.youtube.com/watch?v=OlC-1-Wq6VI)](https://www.youtube.com/watch?v=OlC-1-Wq6VI)
+
 
 ## Overview
 
